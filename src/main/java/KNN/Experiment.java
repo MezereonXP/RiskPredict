@@ -9,8 +9,8 @@ import java.io.Reader;
 
 public class Experiment {
 
-    public static final int T = 80;
-    public static final int L = 10;
+    public static final int T = 200;
+    public static final int L = 50;
 
     public static void main(String[] args) throws FileNotFoundException {
 
